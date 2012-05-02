@@ -1,0 +1,25 @@
+joystick-drivers:
+  ubuntu:
+    apt:
+      packages: [ros-fuerte-joystick-drivers]
+
+rosserial:
+  ubuntu:
+    apt:
+      packages: [ros-fuerte-qt-ros]
+
+qt-ros:
+  ubuntu:
+    apt:
+      packages: [ros-fuerte-rosserial]
+
+vision-opencv:
+  ubuntu:
+    apt:
+      packages: [ros-fuerte-vision-opencv]
+
+lm-sensors:
+  ubuntu:
+    apt:
+      packages: [lm-sensors]
+

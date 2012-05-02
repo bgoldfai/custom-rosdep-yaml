@@ -1,0 +1,7 @@
+custom-rosdep-yaml
+=============
+
+Author: Brian Goldfain <bgoldfai@gmail.com>
+Last Update: May 1, 2012
+
+Custom rosdep.yaml file to add some extra keys
