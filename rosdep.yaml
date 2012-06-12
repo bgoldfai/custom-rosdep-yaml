@@ -6,12 +6,12 @@ joystick-drivers:
 rosserial:
   ubuntu:
     apt:
-      packages: [ros-fuerte-qt-ros]
+      packages: [ros-fuerte-rosserial]
 
 qt-ros:
   ubuntu:
     apt:
-      packages: [ros-fuerte-rosserial]
+      packages: [ros-fuerte-qt-ros]
 
 vision-opencv:
   ubuntu:
